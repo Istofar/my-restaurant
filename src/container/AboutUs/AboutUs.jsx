@@ -16,17 +16,17 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
-          "You must be imaginative, strong hearted. You must try things that may
-          not work, and you must not let anyone define your limits because of
-          where you come from. Your only limit is your soul."
+          "First of all i'm a rat. Which means, life is hard. Second, I have a
+          highly developed sense of taste and smell. Third, I'm just
+          familiarizing myself with the vegetable and such."
         </p>
         <button type="button" className="custom__button">
           Know More
-        </button> 
+        </button>
       </div>
       <div className="app__aboutus-content_knife flex__center">
-          <img src={images.knife} alt="about_knife" />
-        </div>
+        <img src={images.knife} alt="about_knife" />
+      </div>
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
